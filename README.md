@@ -1,4 +1,4 @@
-# estantes-flotantes
+# Cripto money
 
 ## Project setup
 ```
